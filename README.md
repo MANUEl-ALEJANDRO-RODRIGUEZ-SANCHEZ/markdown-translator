@@ -1,35 +1,26 @@
-# markdown-translator
+# 📜 Markdown Translator 🌐
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to **MarkDown Translator**, a simple and elegant tool built in **Vue.js** to translate your Markdown files to HTML instantly. Transform your ideas from plain text to web with ease and style!
 
-## Recommended IDE Setup
+## 🛠️ Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 🚀 **Real-time conversion:** Write in Markdown format and watch it automatically translate to HTML.
+- 🎨 **Light and dark mode:** Change the theme of your interface with a single click, as you prefer.
+- 📝 **Download Markdown & HTML:** Export your documents as `.md` or `.html` files easily.
+- 📐 **Responsive design:** Optimized with **Bootstrap** for perfect display on all devices.
+- 🧩 **Easy to use:** A simple and intuitive interface that anyone can understand and use.
 
-## Customize configuration
+## 🖼️ How to Use It
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Type your Markdown code in the left text area.
+2. View the automatically generated HTML in the right panel.
+3. Switch between light and dark mode using the button at the top.
+4. Download the Markdown or HTML content using the available buttons.
 
-## Project Setup
+## 📝 License
 
-```sh
-npm install
-```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Made with 💚 by [Manuel Rodriguez](https://github.com/MANUEl-ALEJANDRO-RODRIGUEZ-SANCHEZ)
