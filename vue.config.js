@@ -1,6 +1,6 @@
 module.exports = {
     devServer:{
-        host: '0.0.0.0',
+        host: 'https://markdown-translator.onrender.com',
         disableHostCheck: true,
         port: 10000,
     }
