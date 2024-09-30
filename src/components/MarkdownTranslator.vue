@@ -85,6 +85,7 @@
 
 .container-fluid{
     padding: 10%;
+    transition: all .3s ease-in-out;
 }
 
 h2 {
