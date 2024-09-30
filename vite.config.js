@@ -10,6 +10,7 @@ export default defineConfig({
     vue(),
     vueJsx(),
   ],
+  base: 'https://MANUEl-ALEJANDRO-RODRIGUEZ-SANCHEZ.github.io/markdown-translator/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
